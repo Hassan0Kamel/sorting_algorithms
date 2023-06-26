@@ -2,8 +2,8 @@
 
 /**
  * swap_ints - Swapn array.
- * @c: The fteger to swap.
- * @d: The ser to swap.
+ * @s: The fteger to swap.
+ * @c: The ser to swap.
  */
 
 void swap_ints(int *s, int *c)
