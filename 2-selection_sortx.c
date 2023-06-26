@@ -6,19 +6,19 @@
  * @d: The ser to swap.
  */
 
-void swap_ints(int *c, int *d)
+void swap_ints(int *s, int *c)
 {
 	int tmp;
 
-	tmp = *c;
-	*c = *d;
-	*d = tmp;
+	tmp = *s;
+	*s = *c;
+	*c = tmp;
 }
 
 /**
- * selection_sort - Sort an array of integers
- * @arraye: An arragers.
- * @sizee: The rray.
+ * selection_sort - Sort anegers
+ * @arraye: gers.
+ * @sizee: Thray.
  * Description: Pri swap.
  */
 void selection_sort(int *arraye, size_t sizee)
