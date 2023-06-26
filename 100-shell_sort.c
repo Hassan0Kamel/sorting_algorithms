@@ -15,7 +15,7 @@ void swap_ints(int *a, int *b)
 }
 
 /**
- * shell_sort - Sort an array 
+ * shell_sort - Sort an array
  * @array: An argers.
  * @size: The si array.
  * Description: Uses theuence.

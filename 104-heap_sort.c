@@ -47,7 +47,7 @@ void max_heapify(int *array, size_t size, size_t base, size_t root)
 }
 
 /**
- * heap_sort - Sort an array 
+ * heap_sort - Sort an array
  * @array: An a integers.
  * @size: The si array.
  * Description: Implements

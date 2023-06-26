@@ -52,7 +52,7 @@ void radix_counting_sort(int *array, size_t size, int sig, int *buff)
 }
 
 /**
- * radix_sort - Sort an array 
+ * radix_sort - Sort an array
  * @array: An arragers.
  * @size: The sirray.
  * Description: Implements the LSD radix so

@@ -91,7 +91,7 @@ void insertion_sort_deck_kind(deck_node_t **deck)
 }
 
 /**
- * insertion_sort_deck_value - Sort a 
+ * insertion_sort_deck_value - Sort a
  * @deck: A pointenked list.
  */
 void insertion_sort_deck_value(deck_node_t **deck)
@@ -122,7 +122,7 @@ void insertion_sort_deck_value(deck_node_t **deck)
 }
 
 /**
- * sort_deck - Sort a deck 
+ * sort_deck - Sort a deck
  * @deck: A pointer tod list.
  */
 void sort_deck(deck_node_t **deck)

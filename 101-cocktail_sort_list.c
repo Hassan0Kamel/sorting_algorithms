@@ -58,7 +58,6 @@ void swap_node_behind(listint_t **list, listint_t **tail, listint_t **shaker)
  * cocktail_sort_list - Sort a listi
  * @list: A pointer tolist.
  */
- 
 void cocktail_sort_list(listint_t **list)
 {
 	listint_t *tail, *shaker;

@@ -74,7 +74,7 @@ void bitonic_seq(int *array, size_t size, size_t start, size_t seq, char flow)
 }
 
 /**
- * bitonic_sort - Sort an array 
+ * bitonic_sort - Sort an array
  * @array: Aegers.
  * @size: The si array.
  * Description: Prints t
